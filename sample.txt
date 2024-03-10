@@ -1,1 +1,2 @@
-this is my first file using cat command in git
+othis is my first file using cat command in git
+jhdjfj
